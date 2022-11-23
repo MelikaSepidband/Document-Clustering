@@ -1,5 +1,5 @@
 # Document-Clustering
-In this project we use Kmeans and NMF for document clustering. The datasets are TDT2 and Reuters-21578.    
+In this project we use K-means and NMF for document clustering. The datasets are TDT2 and Reuters-21578.    
 
 
 The TDT2 corpus consists of data collected during the first half of 1998 and taken
