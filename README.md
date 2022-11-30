@@ -37,4 +37,4 @@ the clustering solution is. Entropy is a measure on uncertainty about the distri
 of clustering results. The smaller the entropy value is, the better the clustering quality is.    
 
 
-In final result we see that NMF is a more effective method that Kmeans.
+In final result we see that NMF is a more effective method than K-means.
